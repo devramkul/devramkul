@@ -1,16 +1,32 @@
-### Hi there 👋
+![Screenshot](Template.gif)
+# Hi, I'm Dnyaneshwar Ramkul
 
-<!--
-**devramkul/devramkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A data enthusiast on a journey to explore the world of data analytics and machine learning.
 
-Here are some ideas to get you started:
+## About Me
+![Screenshot](image_1.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm a data enthusiast, transforming raw data into actionable insights and uncovering valuable opportunities.
+
+🔭 I’m currently learning and building skills in Machine Learning.                                                
+
+🌱 I'm passionate about extracting meaningful insights from data.
+
+💬 Ask me about Excel, SQL, Python, Data Visualization, Statistics.
+
+## Contact Me
+
+📧 You can reach out to me via email: ramkuldev22@email.com
+
+## Languages & Tools
+
+- Python
+- SQL
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebooks
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devramkul&show_icons=true)
