@@ -1,31 +1,26 @@
-![Screenshot](Template.gif)
-# Hi, I'm Dnyaneshwar Ramkul
+# Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋
 
-A data enthusiast on a journey to explore the world of data analytics and machine learning.
+I'm a highly motivated data analyst with a strong foundation in data analysis and a keen interest in machine learning. I'm currently seeking new opportunities to apply my skills and knowledge in real-world projects.
 
-## About Me
-![Screenshot](image_1.gif)
+## 🚀 My Skills
 
-👨‍💻 I'm a data enthusiast, transforming raw data into actionable insights and uncovering valuable opportunities.
+- **Programming Languages:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Advanced Excel:** PivotTables, VLOOKUP, etc.
+- **Business Intelligence:** Power BI
+- **Database:** SQL
+- **Machine Learning:** Currently learning and exploring the world of ML
 
-🔭 I’m currently learning and building skills in Machine Learning.                                                
+## 📊 What I'm Up To
 
-🌱 I'm passionate about extracting meaningful insights from data.
+- 🌱 I'm actively learning and experimenting with machine learning algorithms and models.
+- 🔍 I'm constantly exploring new datasets to analyze and gain insights.
+- 💼 I'm actively searching for my first data analyst position, so feel free to reach out if you know of any opportunities.
 
-💬 Ask me about Excel, SQL, Python, Data Visualization, Statistics.
+## 📫 Connect with Me
 
-## Contact Me
-
-📧 You can reach out to me via email: ramkuldev22@email.com
-
-## Languages & Tools
-
-- Python
-- SQL
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebooks
+- [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-ramkul-36b622250/))
 
 ## GitHub Stats
 
