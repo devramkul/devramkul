@@ -1,27 +1,30 @@
-# Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋
+# 💫 About Me:
+Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋<br>I'm a highly motivated data analyst with a strong foundation in data analysis and a keen interest in machine learning. I'm currently seeking new opportunities to apply my skills and knowledge in real-world projects.<br><br>🚀 My Skills<br>Programming Languages: Python<br>Data Analysis: Pandas, NumPy<br>Data Visualization: Matplotlib, Seaborn<br>Advanced Excel: PivotTables, VLOOKUP, etc.<br>Business Intelligence: Power BI<br>Database: SQL<br>Machine Learning: Currently learning and exploring the world of ML<br><br>📊 What I'm Up To<br>🌱 I'm actively learning and experimenting with machine learning algorithms and models.<br>🔍 I'm constantly exploring new datasets to analyze and gain insights.<br>💼 I'm actively searching for my first data analyst position, so feel free to reach out if you know of any opportunities.
 
-I'm a highly motivated data analyst with a strong foundation in data analysis and a keen interest in machine learning. I'm currently seeking new opportunities to apply my skills and knowledge in real-world projects.
 
-## 🚀 My Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dnyaneshwar-ramkul-36b622250/) 
 
-- **Programming Languages:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
-- **Advanced Excel:** PivotTables, VLOOKUP, etc.
-- **Business Intelligence:** Power BI
-- **Database:** SQL
-- **Machine Learning:** Currently learning and exploring the world of ML
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devramkul&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devramkul&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devramkul&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 What I'm Up To
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devramkul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I'm actively learning and experimenting with machine learning algorithms and models.
-- 🔍 I'm constantly exploring new datasets to analyze and gain insights.
-- 💼 I'm actively searching for my first data analyst position, so feel free to reach out if you know of any opportunities.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📫 Connect with Me
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devramkul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-ramkul-36b622250/))
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=devramkul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devramkul&show_icons=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
