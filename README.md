@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋<br>I'm a highly motivated data analyst with a strong foundation in data analysis. I have a keen interest in leveraging data to derive insights and make data-driven decisions. I'm currently seeking new opportunities to apply my skills and knowledge in real-world projects.<br><br>🚀 My Skills<br>Programming Languages: Python<br>Data Analysis: Pandas, NumPy<br>Data Visualization: Matplotlib, Seaborn<br>Advanced Excel: PivotTables, VLOOKUP, etc.<br>Business Intelligence: Power BI<br>Database: SQL<br>Machine Learning: Currently learning and exploring the world of ML<br><br>📊 What I'm Up To<br>🌱 I'm actively learning and experimenting with machine learning algorithms and models.<br>🔍 I'm constantly exploring new datasets to analyze and gain insights.<br>💼 I'm actively searching for my first data analyst position, so feel free to reach out if you know of any opportunities.
+# 💫 About Me:A detail-oriented and analytical individual with a passion for analyzing data, proficient
+in SQL, Excel and Python with a comprehensive understanding of data analysis
+techniques. Dedicated to accuracy and eager to contribute to a dynamic and
+collaborative work environment, with the goal of establishing a successful career in
+data analysis.<br><br>🔍 I'm constantly exploring new datasets to analyze and gain insights.<br>💼 I'm actively searching for my first data analyst position, so feel free to reach out if you know of any opportunities.
 
 
 ## 🌐 Socials:
