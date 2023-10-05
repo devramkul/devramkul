@@ -1,3 +1,5 @@
+![Template](https://example.com/path/to/Template.gif)
+
 # 💫 About Me:
 Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋<br>A detail-oriented and analytical individual with a passion for analyzing data, proficient
 in SQL, Excel and Python with a comprehensive understanding of data analysis
