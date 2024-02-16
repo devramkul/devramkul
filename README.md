@@ -1,7 +1,7 @@
 ![Template](./Template.gif)
 
 # 💫 About Me:
-Hello, I'm Dnyaneshwar Ramkul, a Data Analyst Aspiring for Exciting Opportunities! 👋<br>A detail-oriented and analytical individual with a passion for analyzing data, proficient
+Hello, I'm Dnyaneshwar Ramkul, Passionate Data & Dedicated Data Analyst driven by curiosity and precision, poised to leverage analytical skills and expertise in SQL, Excel, and Python to unearth valuable insights! 👋<br>A detail-oriented and analytical individual with a passion for analyzing data, proficient
 in SQL, Excel and Python with a comprehensive understanding of data analysis
 techniques. Dedicated to accuracy and eager to contribute to a dynamic and
 collaborative work environment, with the goal of establishing a successful career in
